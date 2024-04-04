@@ -1,4 +1,4 @@
-library modal_gif_picker;
+library modal_gif_picker2;
 
 import 'package:flutter/material.dart';
 import 'package:modal_gif_picker/src/model/client/gif.dart';
